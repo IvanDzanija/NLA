@@ -24,6 +24,11 @@ represent.
 Please don't use these scripts. These implementations are purely for educational
 purposes and are not optimized for performance or robustness.
 
+## Comments
+
+Comments in the code are in Croatian. Although scripts are so small that
+comments are pretty much irrelevant.
+
 ## License
 
 This project is licensed under the MIT License.
