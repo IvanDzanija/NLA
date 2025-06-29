@@ -1,4 +1,4 @@
-# Numerical Linear Algebra Exercises (MATLAB)
+# Numerical Linear Algebra Exercises (MATLAB and Python implementation)
 
 This repository contains small but functional MATLAB scripts implementing core
 numerical linear algebra algorithms. These programs were developed as part of
