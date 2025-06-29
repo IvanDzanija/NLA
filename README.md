@@ -1,23 +1,22 @@
 # Numerical Linear Algebra Exercises (MATLAB and Python implementation)
 
-This repository contains small but functional MATLAB scripts implementing core
+This repository contains small but functional MATLAB and Python scripts implementing core
 numerical linear algebra algorithms. These programs were developed as part of
 practice exercises and serve as clean, working examples of the methods they
 represent.
 
 ## Contents
 
-- `EIGEN.m`: Eigen decomposition via the power, reverse iteration and QR
-  methods.
-- `Experiment.m`: Experimental testing and analysis of numerical methods.
-- `GS.m`: Gram–Schmidt orthogonalization.
-- `HOUSEHOLDER_QR.m`: QR decomposition using Householder reflections.
-- `KRILOV.m`: Krylov subspace method for solving linear systems.
-- `SOR.m`: Successive Over-Relaxation method for solving linear systems.
+- Eigen decomposition via the power, reverse iteration and QR methods.
+- Experimental testing and analysis of numerical methods.
+- Gram–Schmidt orthogonalization.
+- QR decomposition using Householder reflections.
+- Krylov subspace method for solving linear systems.
+- Successive Over-Relaxation method for solving linear systems.
 
 ## Requirements
 
-- MATLAB
+- MATLAB or Python
 
 ## Usage
 
